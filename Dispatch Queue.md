@@ -24,3 +24,7 @@ Dispatch queue.
 Dispatch queue.  
 Dispatch queue.  
 Dispatch queue.  
+
+--------------
+*Lyrics from the Wikipedia article on Grand Central Dispatch:*  
+*https://en.wikipedia.org/wiki/Grand_Central_Dispatch*
